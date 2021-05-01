@@ -1,3 +1,8 @@
+# Crud en laravel 8 con Vuejs 2. 
+Se desarrollo las validaciones en el lado del servidor con Request 
+utilizando el método paginate de laravel e implementando una paginación personalizada con Vuejs.
+Se dio estilos con Bootstrap 4.
+
 # Screenshots
 
 
