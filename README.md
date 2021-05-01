@@ -3,6 +3,7 @@ Se desarrollo las validaciones en el lado del servidor con Request
 utilizando el método paginate de laravel e implementando una paginación personalizada con Vuejs.
 Se dio estilos con Bootstrap 4.
 
+
 # Screenshots:
 
 ![2021-04-30_One](https://user-images.githubusercontent.com/79773876/116766939-80f38980-aa03-11eb-9263-f7fdf1597fdf.png)
